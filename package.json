@@ -1,0 +1,17 @@
+{
+  "name": "go-node-showcase",
+  "version": "1.0.0",
+  "description": "Run go binary in nodejs using child processes showcase",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "make"
+  },
+  "keywords": ["golang", "nodejs"],
+  "repository": "git@github.com:razvanmtn/go-node-showcase.git",
+  "author": "Razvan Muntian <razvanmuntian@gmail.com>",
+  "license": "MIT"
+}
